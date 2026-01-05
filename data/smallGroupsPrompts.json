@@ -1,0 +1,25 @@
+{
+    "prompts": [
+      "Each person shares one sentence that states what you want to learn and what you can teach.",
+      "What do you know well enough to teach tomorrow, practically, not theoretically?",
+      "What are you actively learning right now, and why now?",
+      "What is one underused resource you have, access, dataset, community, tools, or experience?",
+      "What is one topic you have unusually strong opinions about because experience taught you?",
+      "Someone volunteer to explain a concept most people get wrong, then the group asks where it breaks.",
+      "What is your favorite test for understanding X, and what edge case would improve that test?",
+      "Share a mistake you made and the lesson, then the group extracts a general rule and a warning sign.",
+      "What is the beginner trap in your field, and what practice exercise helps avoid it?",
+      "What is the most useful template or checklist you have used, or wish existed?",
+      "Pick one person’s 30 day goal, then the group proposes three experiments they could run this week.",
+      "Name the constraint, time, confidence, access, or feedback, then each person proposes one workaround.",
+      "What would make tonight a win, and what specific next step plus deadline would create that win?",
+      "What is the smallest milestone that proves progress in 7 days, and what metric defines it?",
+      "What support structure do you need, practice partner, reviews, or accountability, and who in the group can help?",
+      "If this group had 2 hours, what would we ship, solve, or draft, and which one do we choose?",
+      "What resource could we create that would help others, repo, reading list, or checklist, and what is the outline?",
+      "Where are we unusually picky about quality, and what standard should we adopt?",
+      "What micro collaboration can we do in the next week, and who does what role?",
+      "End the round by naming one person you want to follow up with and why, in one sentence."
+    ]
+  }
+  
