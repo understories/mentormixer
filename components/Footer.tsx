@@ -10,7 +10,7 @@ export function Footer() {
         className="inline-flex items-center justify-center gap-2 text-sm text-text-light hover:text-text transition-colors min-h-[44px] touch-manipulation"
       >
         <span>🌱</span>
-        <span>NS Jan Cohort Ask & Offer Board</span>
+        <span>NS Jan 2026 Cohort Ask & Offer Board</span>
       </a>
     </footer>
   );
