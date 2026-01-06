@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export function Footer() {
   return (
-    <footer className="w-full p-4 border-t border-gray-200 bg-white">
-      <div className="flex items-center justify-between max-w-2xl mx-auto">
+    <footer className="w-full mt-auto border-t border-gray-200 bg-white">
+      <div className="flex items-center justify-between max-w-2xl mx-auto p-4 min-h-[60px]">
         <a
           href="https://github.com/understories/mentormixer"
           target="_blank"
@@ -32,6 +32,7 @@ export function Footer() {
         >
           <span>🌱</span>
           <span>NS Jan 2026 Cohort Ask & Offer Board</span>
+          <span>→</span>
         </a>
       </div>
     </footer>
