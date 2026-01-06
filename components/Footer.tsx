@@ -25,7 +25,7 @@ export function Footer() {
           </svg>
         </a>
         <a
-          href="https://p2pmentor.com/docs/user-flows/lite-version"
+          href="https://p2pmentor.com/lite"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 text-sm text-text-light hover:text-text transition-colors min-h-[44px] touch-manipulation"
