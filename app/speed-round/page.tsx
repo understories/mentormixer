@@ -45,7 +45,7 @@ export default function SpeedRoundPage() {
         >
           ← Back
         </Link>
-        <InstructionsBanner />
+        <InstructionsBanner text='Answer with specifics: a concrete example, artifact, or decision you made. Prefer "what I did" over "what I believe." It&apos;s always allowed to say: "Pass / not sure yet." Only click "Next Prompt" if both people pass.' />
 
         <div className="text-center mb-4">
           <div className="text-lg sm:text-xl font-heading font-semibold text-text">

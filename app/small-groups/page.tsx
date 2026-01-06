@@ -32,7 +32,7 @@ export default function SmallGroupsPage() {
         >
           ← Back
         </Link>
-        <InstructionsBanner />
+        <InstructionsBanner text='Answer with specifics: a concrete example, artifact, or decision you made. Prefer "what I did" over "what I believe." It&apos;s always allowed to say: "Pass / not sure yet." Click "Next Prompt" if everyone is either done or chooses to pass.' />
 
         <div className="flex-1 flex flex-col items-center justify-center gap-6 sm:gap-8">
           <Timer initialDuration={300} onComplete={handleTimerComplete} />
