@@ -10,7 +10,7 @@ A simple web application to complement an IRL event with three timer-based activ
 
 1. **Speed Round** - 1:1 discussion with 60-second alternating turns
 2. **Small Groups** - Group discussion with 5-minute timer
-3. **Hot Seat** - Open discussion with 3-minute timer (no prompts)
+3. **Hot Seat** - Open discussion with 3-minute timer where the entire group gives prompts to the person in the center
 
 All activities include:
 - Start, Reset, and Stop timer controls
