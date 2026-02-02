@@ -31,7 +31,7 @@ export function Footer() {
           className="flex items-center justify-center gap-2 text-sm text-text-light hover:text-text transition-colors min-h-[44px] touch-manipulation"
         >
           <span>🌱</span>
-          <span>NS Jan 2026 Cohort Ask & Offer Board</span>
+          <span>NS Feb 2026 Cohort Ask & Offer Board</span>
           <span>→</span>
         </a>
       </div>
